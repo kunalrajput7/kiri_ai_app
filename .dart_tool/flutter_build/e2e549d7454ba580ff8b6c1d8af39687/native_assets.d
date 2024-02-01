@@ -1,0 +1,1 @@
+ C:\\Users\\kunal\\OneDrive\\Desktop\\Kiri\ AI\\kiri_ai\\.dart_tool\\flutter_build\\e2e549d7454ba580ff8b6c1d8af39687\\native_assets.yaml: 
